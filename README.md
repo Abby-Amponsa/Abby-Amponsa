@@ -1,9 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Abena Amponsa!
+<h2> Data Analysis Projects:</h2>
+ -[Hello World]
+<h2> Data Visualization Projects:</h2>
+<h2> Database Management Projects:</h2>
+<h2> Certifications:</h2>
 
-<!--
-**Abby-Amponsa/Abby-Amponsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/abena-opon-amponsa-1206a71b8/
 
-Here are some ideas to get you started:
+ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
